@@ -1,19 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Meu nome é Paulo, gosto de Hacking e Desenvolvimento Web Full-Stack.</strong><br>
+  Meu nome é Paulo, gosto de Hacking.</strong><br>
   Atualmente trabalho na Força Aérea Brasileira, estou cursando ensino superior em Cibersegurança, faço também diversos outros cursos online relacionados a programação.
 </p>
 
-<p align="left">
-  🦄 Linguagens: <p><strong><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-                            <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-                            <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-                            <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-                            <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />                            
-                            <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />                         
-                            <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" /></strong>
-</p>
+
 
 <p align="left">
   💌 Contato: ⤵️
